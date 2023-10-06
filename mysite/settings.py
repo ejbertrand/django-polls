@@ -82,6 +82,14 @@ DATABASES = {
         'PASSWORD': 'I am learning Django, and loving it.',
         'HOST': 'localhost',
         'PORT': 3306,
+    },
+    'test': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': "test_learning_django",
+        'USER': 'django',
+        'PASSWORD': 'I am learning Django, and loving it.',
+        'HOST': 'localhost',
+        'PORT': 3306,
     }
 }
 
