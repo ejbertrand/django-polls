@@ -16,7 +16,7 @@ Quick start
 3.  Navigate using the CLI to the django-polls/dist directory and install
     the polls application with::
 
-    ``python -m pip install django-polls-0.1.tar.gz``
+    python -m pip install django-polls-0.1.tar.gz
 
 4.  Follow the README file from the django-polls directory, in order to
     configure the polls application and run the Django server.
