@@ -12,7 +12,7 @@ Quick start
 2.  Install the requirements shown in the 'requirements.txt' file with
     ``python -m pip install -r requirements.txt``
 
-1. Add "polls" to your INSTALLED_APPS setting like this::
+3. Navigate using the CLI to the django-polls/dist directory and install the polls application with::
 
     python -m pip install django-polls-0.1.tar.gz
 
